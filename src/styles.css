@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+.pagestyle{
+    background-image: linear-gradient(to top, #acadff, #0344d1 );
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+    position: absolute;
+    background-size: auto;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    z-index: 10;
+}
+
+.parallax {
+    background-image: linear-gradient(to top, #acadff, #0344d1 );
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%
+  }
