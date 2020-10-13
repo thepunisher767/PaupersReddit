@@ -13,10 +13,10 @@
 }
 
 .parallax {
-    background-image: linear-gradient(to top, #acadff, #0344d1 );
+    background-image: linear-gradient(to bottom, #acadff, #588dff );
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%
+    height:
   }
